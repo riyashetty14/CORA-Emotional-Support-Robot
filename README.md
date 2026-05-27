@@ -2,7 +2,7 @@
 
 CORA is a bear-shaped emotional support robot designed to assist individuals through emotional regulation and AI-assisted companionship.
 
------------
+------------
 
 #Project Goals:
 - Build an emotionally interactive robotics platform
